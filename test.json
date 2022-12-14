@@ -1,0 +1,11 @@
+{
+    "name": "Arif",
+    "title": "Web Developer (MERN)",
+    "mobile": "+8801849676331",
+    "address": {
+        "upazila": "Gobindaganj",
+        "district": "Gaibandha",
+        "city": "Rangpur",
+        "country": "Bangladesh"
+    }
+}
