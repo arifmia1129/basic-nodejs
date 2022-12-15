@@ -12,6 +12,7 @@ const info = {
     }
 }
 
+
 fs.writeFile("test.json", JSON.stringify(info), (err) => {
     if (err) {
         console.log(err);
